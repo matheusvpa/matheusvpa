@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matheusvpa/matheusvpa/refs/heads/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matheusvpa/matheusvpa/refs/heads/main/snake.yml/snake.svg" alt="Snake animation" />
 
 ###
